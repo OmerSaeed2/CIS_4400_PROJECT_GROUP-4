@@ -1,6 +1,4 @@
-# CIS_4400_PROJECT_GROUP-4-
-Trending majors in Colleges
-CIS-4400-PROJECT
+# CIS_4400_PROJECT_GROUP(4)
 
 Installation:
 Install any python IDE that you are comfortable using. Here we used Anaconda Navigator- Jupyter Notebook as it was more user friendly and provided useful information about errors with each line of code. Use the link below to install Anaconda Navigator- Jupyter Notebook onto your operating system:
@@ -27,3 +25,7 @@ https://www.mysql.com/products/workbench/
 Install Power BI - Visual design tool.
 
 https://powerbi.microsoft.com/en-us/downloads/
+
+# ETL:
+Google drive link for all datasets: 
+https://drive.google.com/drive/folders/1hKHzkrk0el-IlJTQ1BYEvjvnCxtxDsCE?usp=sharing
