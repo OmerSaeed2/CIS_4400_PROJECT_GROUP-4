@@ -38,4 +38,13 @@ Code example of transforming the data: https://github.com/OmerSaeed2/CIS_4400_PR
 Load the transformed data from above into the MySQL tables using Python code.
 Code example of loading the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL--Loading.jpeg
 
+# Full Code File:
+Please see the comments in the code to see what it does and what it is for:
+https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL_Final_File.ipynb
 
+# Questions?
+If you have any questions about the project or technical issues please feel free to email:
+
+* omersaeed2@gmail.com
+
+* S.gonzalez679b@gmail.com
