@@ -46,7 +46,7 @@ Code example of loading the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT
 
 # Full Code File:
 Please see the comments in the code to see what it does and what it is for:
-https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL_Final_File.ipynb
+https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4/blob/main/ETL_Final_File.ipynb
 
 # Questions?
 If you have any questions about the project or technical issues please feel free to email:
