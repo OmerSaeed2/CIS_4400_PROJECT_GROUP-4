@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1hKHzkrk0el-IlJTQ1BYEvjvnCxtxDsCE?usp=sha
 Open jupyter notebook and create a Python 3 file in the same folder as all your downloaded csv files.
 Code example of transforming the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL--Transfroming.jpeg
 
-# Load Data:
+# Load Data
 Load the transformed data from above into the MySQL tables using Python code.
 Code example of loading the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL--Loading.jpeg
 
