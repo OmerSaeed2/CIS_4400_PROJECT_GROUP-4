@@ -22,21 +22,25 @@ Install MySQL Workbench
 
 https://www.mysql.com/products/workbench/
 
+Download MS SSMS
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
 Install Power BI - Visual design tool.
 
 https://powerbi.microsoft.com/en-us/downloads/
 
 # ETL:
+# Extract Data
 1. Graduates CSV File https://corgis-edu.github.io/corgis/csv/graduates/ with all majors and demographics.
 2. Unemployment and Underemployment rates https://www.kaggle.com/dbsimpson/us-college-graduates-wages?select=under_employment_college_grads.csv
 3. Google drive link for all datasets: 
 https://drive.google.com/drive/folders/1hKHzkrk0el-IlJTQ1BYEvjvnCxtxDsCE?usp=sharing
 
-# Data Transformation:
+# Transform Data
 Open jupyter notebook and create a Python 3 file in the same folder as all your downloaded csv files.
 Code example of transforming the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL--Transfroming.jpeg
 
-# Loading Data:
+# Load Data:
 Load the transformed data from above into the MySQL tables using Python code.
 Code example of loading the data: https://github.com/OmerSaeed2/CIS_4400_PROJECT_GROUP-4-/blob/main/ETL--Loading.jpeg
 
